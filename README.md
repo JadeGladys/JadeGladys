@@ -1,4 +1,4 @@
-[![Header]([https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=400&fit=crop])(https://gladysjade.netlify.app/)
+[![Header]([[https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=400&fit=crop](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)](https://gladysjade.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Isimbi Jade Gladys</h1>
 <h3 align="center">Full-stack software engineer based in Kigali, Rwanda. I build web applications and APIs using TypeScript, React, NestJS, FastAPI, and PostgreSQL. Currently building a headless CMS at ISCO. Open to full-time, contract, and remote opportunities.</h3>
