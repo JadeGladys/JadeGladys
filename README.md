@@ -1,4 +1,4 @@
-[![Header]([https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=400&fit=crop](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io))](https://gladysjade.netlify.app/)
+[![Header]([https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=400&fit=crop](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)](https://gladysjade.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Isimbi Jade Gladys</h1>
 <h3 align="center">Full-stack software engineer based in Kigali, Rwanda. I build web applications and APIs using TypeScript, React, NestJS, FastAPI, and PostgreSQL. Currently building a headless CMS at ISCO. Open to full-time, contract, and remote opportunities.</h3>
