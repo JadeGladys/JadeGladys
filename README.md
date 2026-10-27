@@ -5,17 +5,17 @@
 
 <br/>
 
-- 🔭 I'm currently working on **a headless CMS using Laravel at ISCO**
+- 🔭 I'm currently working on **a habit tracking app and exploring AI integration projects**
 
-- 🌱 I'm currently learning **Laravel & deepening my DevOps skills**
+- 🌱 I'm currently learning **AI/ML concepts and deepening my Python & data engineering skills — pursuing an MSc in CS with AI specialisation at Łódź University of Technology**
 
-- 💼 Previously at **Microsoft · SentiOne · Rwanda Energy Group**
+- 💼 Previously at **SentiOne · ISCO · Tek Experts (Microsoft) · Rwanda Energy Group**
 
 - 👩‍💻 All of my projects are available at [https://gladysjade.netlify.app/](https://gladysjade.netlify.app/)
 
 - 📫 Reach me at **gladys.jade.isimbi@gmail.com**
 
-- ⚡ Fun fact **I enjoy spending time with dogs**
+- ⚡ Fun fact **I enjoy spending time with cats**
 
 <br/>
 
